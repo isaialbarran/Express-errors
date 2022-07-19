@@ -14,6 +14,6 @@ node js/server.js
 ```
 
 Endpoints to be called  
-[http://localhost:3001/products]  
-[http://localhost:3000/productswitherror]  
-[http://localhost:3000/productswitherrornew]
+http://localhost:3001/products  
+http://localhost:3000/productswitherror  
+http://localhost:3000/productswitherrornew
